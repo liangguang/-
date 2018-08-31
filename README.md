@@ -1,2 +1,2 @@
 # github.io
-# http://liangguangpu.github.io/developer
+# http://liangguang.github.io/developer
